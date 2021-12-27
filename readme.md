@@ -1,3 +1,23 @@
+# API Rest com Laravel
+## Code Experts (Nanderson Castro)
+
+### [Vídeo da aula](https://www.youtube.com/watch?v=oVRWQJE5a1c)
+
+### Tópicos da aula  
+
+- Instalando o Laravel e criando o projeto
+- Criando o model
+- Populando a tabela com 10 registros aleatórios
+- Criando as rotas
+- Criando o controller para a API
+- Paginando os produtos
+- Usando o Postman
+- Códigos de status de respostas HTTP
+- Busca de produto com mensagem de erro
+- Final  
+
+##
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
