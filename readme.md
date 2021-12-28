@@ -1,9 +1,13 @@
 # API Rest com Laravel
 ## Code Experts (Nanderson Castro)
 
-### [Vídeo da aula](https://www.youtube.com/watch?v=oVRWQJE5a1c)
+### Instalação de dependências
 
-### Tópicos da aula  
+```bash
+composer install
+```
+
+### Tópicos da aula - [Vídeo da aula](https://www.youtube.com/watch?v=oVRWQJE5a1c)  
 
 - Instalando o Laravel e criando o projeto
 - Criando o model
